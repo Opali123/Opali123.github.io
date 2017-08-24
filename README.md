@@ -1,1 +1,1 @@
-博客已移至https://github.com/zhengwei1949/myblog/issues
+博客已移至https://github.com/opali1949/myblog/issues

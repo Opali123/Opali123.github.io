@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>李春杰博客</title>
-  <id>https://zhengwei1949.github.io</id>
+  <id>https://opali123.github.io</id>
   <updated>2017-05-08T19:06:20+08:00</updated>
   <subtitle>前端技术学习</subtitle>
-  <link href="https://zhengwei1949.github.io"></link>
+  <link href="https://opali123.github.io"></link>
   <author>
     <name>李春杰博客</name>
   </author>
   <entry>
     <title>hexo简明教程</title>
     <updated>2017-05-08T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-05-08:/hexo.html</id>
+    <id>tag:opali123.github.io,2017-05-08:/hexo.html</id>
     <content type="html">&lt;p&gt;用hexo搭建博客&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/hexo.html"></link>
+    <link href="https://opali123.github.io/hexo.html"></link>
   </entry>
   <entry>
     <title>翻墙的终极解决方案</title>
     <updated>2017-04-02T18:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-02:/如何翻墙.html</id>
+    <id>tag:opali123.github.io,2017-04-02:/如何翻墙.html</id>
     <content type="html">&lt;p&gt;翻墙的终极解决方案&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/如何翻墙.html"></link>
+    <link href="https://opali123.github.io/如何翻墙.html"></link>
   </entry>
   <entry>
     <title>打包sea.js</title>
     <updated>2017-04-03T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-03:/打包sea.js.html</id>
+    <id>tag:opali123.github.io,2017-04-03:/打包sea.js.html</id>
     <content type="html">&lt;p&gt;打包sea.js代码&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/打包sea.js.html"></link>
+    <link href="https://opali123.github.io/打包sea.js.html"></link>
   </entry>
   <entry>
     <title>bower使用手记</title>
     <updated>2017-04-03T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-03:/bower使用手记.html</id>
+    <id>tag:opali123.github.io,2017-04-03:/bower使用手记.html</id>
     <content type="html">&lt;p&gt;bower是一个用来下载前端的库(框架)的下载器&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/bower使用手记.html"></link>
+    <link href="https://opali123.github.io/bower使用手记.html"></link>
   </entry>
   <entry>
     <title>常用前端资源汇总</title>
     <updated>2017-04-03T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-03:/常用前端资源汇总.html</id>
+    <id>tag:opali123.github.io,2017-04-03:/常用前端资源汇总.html</id>
     <content type="html">&lt;p&gt;常用前端资源汇总&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/常用前端资源汇总.html"></link>
+    <link href="https://opali123.github.io/常用前端资源汇总.html"></link>
   </entry>
   <entry>
     <title>angular内置指令汇总</title>
     <updated>2017-04-03T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-03:/angular_内置指令汇总.html</id>
+    <id>tag:opali123.github.io,2017-04-03:/angular_内置指令汇总.html</id>
     <content type="html">&lt;p&gt;angular内置指令汇总&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/angular_内置指令汇总.html"></link>
+    <link href="https://opali123.github.io/angular_内置指令汇总.html"></link>
   </entry>
   <entry>
     <title>理解promise</title>
     <updated>2017-04-03T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-03:/理解promise.html</id>
+    <id>tag:opali123.github.io,2017-04-03:/理解promise.html</id>
     <content type="html">&lt;p&gt;理解promise&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/理解promise.html"></link>
+    <link href="https://opali123.github.io/理解promise.html"></link>
   </entry>
   <entry>
     <title>gulp总结</title>
     <updated>2017-04-03T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-03:/gulp使用总结.html</id>
+    <id>tag:opali123.github.io,2017-04-03:/gulp使用总结.html</id>
     <content type="html">&lt;p&gt;gulp是一个用来前端的工作流构建工具。&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/gulp使用总结.html"></link>
+    <link href="https://opali123.github.io/gulp使用总结.html"></link>
   </entry>
   <entry>
     <title>angular中使用jquery</title>
     <updated>2017-04-03T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-03:/angular_jquery.html</id>
+    <id>tag:opali123.github.io,2017-04-03:/angular_jquery.html</id>
     <content type="html">&lt;p&gt;angular中使用jquery&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/angular_jquery.html"></link>
+    <link href="https://opali123.github.io/angular_jquery.html"></link>
   </entry>
   <entry>
     <title>如何写简历</title>
     <updated>2017-04-03T10:00:00+08:00</updated>
-    <id>tag:zhengwei1949.github.io,2017-04-03:/简历.html</id>
+    <id>tag:opali123.github.io,2017-04-03:/简历.html</id>
     <content type="html">&lt;p&gt;如何写简历&lt;/p&gt;&#xA;</content>
-    <link href="https://zhengwei1949.github.io/简历.html"></link>
+    <link href="https://opali123.github.io/简历.html"></link>
   </entry>
 </feed>
