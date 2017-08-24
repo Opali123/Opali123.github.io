@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>郑伟博客</title>
+  <title>李春杰博客</title>
   <id>https://zhengwei1949.github.io</id>
   <updated>2017-05-08T19:06:20+08:00</updated>
   <subtitle>前端技术学习</subtitle>
   <link href="https://zhengwei1949.github.io"></link>
   <author>
-    <name>郑伟博客</name>
+    <name>李春杰博客</name>
   </author>
   <entry>
     <title>hexo简明教程</title>
